@@ -22,3 +22,4 @@ yarn-error.log*
 /src/assets/
 /src/includes/
 /src/index.php
+.idea/
