@@ -1,0 +1,73 @@
+h1 img {
+    max-height: 19rem;
+}
+h1 {
+    margin: 1em 0 0vag;
+}
+.brand-logo img {
+    width: 100%;
+    height: auto;
+}
+.brand-logo { width: 7rem; }
+
+a { color: #f06292; }
+a:hover, a:active, a:focus { color: #cc5779; }
+#download-button {
+    margin-bottom: 3rem;
+}
+.products {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+}
+.products li {
+    display: inline-block;
+    width: 33%;
+    font-size: 1rem;
+    vertical-align: top;
+    padding: 1rem 0.25rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.products .placeholder {
+    width: 60%;
+    height: 7rem;
+    background: #efefef;
+    display: block;
+    margin: 0 auto 1em;
+}
+.products strong {
+    font-weight: bold;
+    display: block;
+    color: #444444;
+}
+.products .price {
+    font-weight: 800;
+    line-height: 1.25;
+    margin: 0.5em 0;
+    font-size: 1.25rem;
+    color: #f06191;
+    display: block;
+}
+.products .description {
+    font-weight: 300;
+    font-style: italic;
+    line-height: 1.25;
+}
+h5.header {
+    text-shadow: 0.05em 0.05em 0.25em rgba(0,0,0,0.5);
+    font-size: 2.5rem;
+}
+.parallax {
+    background: #252525;
+}
+
+.parallax img {
+    background: black;
+    opacity: 0.65;
+}
+.h5-description {
+    text-shadow: 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.64);
+    font-size: 1.25rem;
+}
