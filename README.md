@@ -6,10 +6,16 @@ Utilizing paypal.me to pay for items, obviously not ideal but my mom didn't want
 http://matkasmarvels.com/
 
 ### Tech stack
--ReactJS
--HTML5
--CSS3
--Netlify
--Materiallize Icons
--Google fonts
--Materialize CSS
+- ReactJS
+
+- HTML5
+
+- CSS3
+
+- Netlify
+
+- Materiallize Icons
+
+- Google fonts
+
+- Materialize CSS
