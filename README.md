@@ -1,2 +1,10 @@
 # Matka's Marvels
-A little online shop for my mom's crafts
+A shop for my mother's crafts
+
+## Tech stack
+ReactJS
+HTML5
+CSS3
+
+## Live Site
+http://matkasmarvels.com/
