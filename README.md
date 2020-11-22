@@ -11,5 +11,5 @@ http://matkasmarvels.com/
 - ReactJS
 - Netlify
 - Google fonts
-- Materialize Icons
+- Material Icons
 - Materialize CSS
