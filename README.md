@@ -1,5 +1,5 @@
 # Matka's Marvels
-A shop for my mother's crafts
+A shop for my mother's crafts. Created in 2018
 
 ## Tech stack
 ReactJS
